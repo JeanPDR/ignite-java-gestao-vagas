@@ -13,7 +13,7 @@ public class CandidateController {
 
   @PostMapping("/")
   public void create(@RequestBody CandidateEntity candidateEntity) {
-    System.out.println("Candidato");
+    System.out.println("Candidato ");
     System.out.println(candidateEntity.getEmail());
   }
 }
