@@ -4,5 +4,6 @@
   "cSpell.words": [
     "gestao",
     "Gestao"
-  ]
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
